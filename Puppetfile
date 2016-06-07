@@ -7,6 +7,8 @@ mod "puppetlabs/stdlib",      '4.11.0'
 mod "puppetlabs/concat",      '2.1.0'
 mod "hunner/hiera",           '2.0.1'
 mod "npwalker/pe_code_manager_webhook", '1.0.8'
+mod "puppetlabs/ntp", :latest
+mod "zanloy/figlet", :latest
 
 # Modules from Github using various references
 # Further examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
